@@ -1,4 +1,7 @@
+# venv files
 ml-lab/
+
+# pyenv
 .python-version
 
 # Jupyter Notebook
