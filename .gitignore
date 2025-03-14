@@ -1,3 +1,5 @@
 ml-lab/
 .python-version
+
+# Jupyter Notebook
 .ipynb_checkpoints/
