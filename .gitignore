@@ -1,8 +1,10 @@
 # venv files
 ml-lab/
+.venv
 
 # pyenv
 .python-version
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+
